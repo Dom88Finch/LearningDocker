@@ -8,5 +8,5 @@ spec:
       containers:
       - name: busybox
         image: busybox
-        command: ["echo", "Hello from the Job"]
+        command: ["echo", "Hello from the Job.  You made your rist Job. Congrats Bro !! \n  You are well on your way tp becpomg a programmer."]
       restartPolicy: Never
